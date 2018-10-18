@@ -11,18 +11,6 @@ The Pokemon Go Albury Wodonga Community uses Discord to organise raids, communit
 
 Our community uses several Discord Bots in order to help facilitate team assignments, raid co-ordination and town assignment. You can refer to this documentation at any time for help on understanding the commands required to talk to these bots. It may seem daunting at first, however, once understood, they are easy to understand.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Welcome:
-   
-   welcome
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: Raids:
-   
-   raids
-
 Joining Discord
 ---------------
 To join the PoGo Albury Wodonga Discord Server follow this link:
