@@ -1,6 +1,6 @@
 site_name: PoGo Albury Wodonga
 nav:
     - Welcome: index.md
-    - Notifications: notifications.md
+    # - Notifications: notifications.md
     - Raids: raids.md
 theme: readthedocs
