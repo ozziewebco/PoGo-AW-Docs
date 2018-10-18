@@ -11,6 +11,8 @@ The Pokemon Go Albury Wodonga Community uses Discord to organise raids, communit
 
 Our community uses several Discord Bots in order to help facilitate team assignments, raid co-ordination and town assignment. You can refer to this documentation at any time for help on understanding the commands required to talk to these bots. It may seem daunting at first, however, once understood, they are easy to understand.
 
+.. toc::
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -27,20 +29,16 @@ In order to keep things safe for trainers of all ages, and to respect the greate
 
 #. | **No Spamming**
    | Respect the chat channels, by posting lots of messages you will degrade the usefullness of our channels to others. There are channels for each of the areas we cover, and a general chat channel for non area specific discussions.
-   |
 
 #. | **Stay On Topic**
    | Our channels are purposefully set up for specific topics (raids, rare finds, town chat, help, etc.).
    | So make sure you keep on topic for the channel you are in.
-   |
    
 #. | **Bullying**
    | Any bullying of another player, either virtualy or in real life will result in an instant ban.
-   |
    
 #. | **Spoofing**
    | Pokemon Go is designed to be played in person, for that reason, if you discuss or are found to be spoofing in game you will be banned.
-   |
 
 #. | **Server Resources**
    | Our server admins have put a lot of time and effort into building some amazing resources for everyone to use.
@@ -48,10 +46,11 @@ In order to keep things safe for trainers of all ages, and to respect the greate
    
 #. | **Offensive & Explicit Language / Material**
    | This community server is open to players of all ages, as such we have a strict no swearing, or posting explicit material.
-   |
    
 #. | **No Spawn Notifications**
    | We use donations from community members to assist in paying for the servers that run our scans etc.
    | As a result, donators receive the ability to get instant notifications of pokemon spawns of their choosing.
    | In other areas the only spawn notifications allowed are for raids and any pokemon in your towns Bronze channel.
-   |
+ 
+ 
+ 
